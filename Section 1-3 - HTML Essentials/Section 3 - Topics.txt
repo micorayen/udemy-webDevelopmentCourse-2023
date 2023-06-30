@@ -1,0 +1,14 @@
+*- Topics -*
+
+- Mozilla Developer Network
+- Paragraph Elements
+- Heading Elements
+- **- Pangolin Practice Exercise -**
+
+- HTML Boilerplate
+- List Elements
+- **- Favorite Movies Exercise -**
+
+- Anchor Tags
+- Images
+- Comments
