@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!-- Note: Exercise
+    1. First and Last name - Required - can clicked on label
+    2. FunRun, Half Marathon & Full Marathon(Radiobuttons) - Connected - can clicked on label
+    3. Email and Password - Both Required
+    4. Age Group (4 options and preselected).
+    5. button to submit
+    -->
+
+<body>
+
+    <h1>Race Registration!</h1>
+
+    <form action="">
+        <label for="fname">First Name:</label>
+        <input type="text" name="fname" id="fname" placeholder="" required>
+        <label for="lname">Last Name:</label>
+        <input type="text" name="lname" id="lname" required>
+
+        <p>Select type of Race:</p>
+        <div>
+            <input type="radio" name="raceType" id="funRun" value="funRun">
+            <label for="funRun">5k - Fun Run</label>
+        </div>
+        <div>
+            <input type="radio" name="raceType" id="half" value="half">
+            <label for="half">Half Marathon</label>
+        </div>
+        <div>
+            <input type="radio" name="raceType" id="full" value="full">
+            <label for="full">Full Marathon</label>
+        </div>
+
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="username" placeholder="enter email" required>
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password" placeholder="enter password" required>
+        </div>
+
+        <p>
+            <label for="division">Select Age Group:</label>
+            <select name="division" id="division" required>
+                <option value="" selected>- Select Age Group -</option>
+                <option value="18-21">18 - 20 years old</option>
+                <option value="21-25">21 - 25 years old</option>
+                <option value="26-30">26 - 30 years old</option>
+            </select>
+        </p>
+        <button>Submit</button>
+    </form>
+
+    <!-- result -->
+    <!-- file:///C:/Users/cjarn/Desktop/Web%20Dev%20Course/Section%204%20-%20HTML%20Next%20Steps%20%26%20Semantics/Course%20Activities/exercise/raceRegistrationForm.html?fname=Mico&lname=Rayen&username=mico%40gmail.com&password=sorry&division=18-21 -->
+</body>
+
+</html>

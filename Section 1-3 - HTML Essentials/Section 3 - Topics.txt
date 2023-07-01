@@ -1,14 +1,21 @@
 *- Topics -*
 
+*_Crucial!_*--------------------
 - Mozilla Developer Network
 - Paragraph Elements
 - Heading Elements
-- **- Pangolin Practice Exercise -**
-
 - HTML Boilerplate
 - List Elements
-- **- Favorite Movies Exercise -**
-
 - Anchor Tags
 - Images
 - Comments
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Pangolin Practice Exercise
+- Favorite Movies Exercise

@@ -1,0 +1,20 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- What Exactly is HTML 5
+- Block vs Inline Elements - Divs & Spans
+- Odd Assortment of Elements - HR, BR, Sup & Sub
+- Entity Codes
+- Intro to Semantic Markups
+- Playing with Sematic Elements
+- Screen Reader Demonstration
+- VSCode Tip - Emmet
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Snowman Logo Exercise
