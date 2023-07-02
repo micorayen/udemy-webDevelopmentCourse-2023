@@ -1,0 +1,28 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Unit Goals
+- Introducing HTML Tables
+- Tables: TR, TD, and TH Elements
+- Tables: Thread, Tbody and Tfoot Elements
+- Tables: Colspan and Rowspan
+- The Form Element
+- Common Input Types
+- The All-Important Label
+- HTML Buttons
+- The Name Attribute
+- Hijacking, Goofle & Reddit's Search
+- Radio Buttons, Checkboxes & Selects
+- Range & Text Area
+- HTML5 Form Validations
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Table Practice Exercise
+- Forms Practice Exercise
+- Creating a Marathon Registration Form Intro & Solutions.

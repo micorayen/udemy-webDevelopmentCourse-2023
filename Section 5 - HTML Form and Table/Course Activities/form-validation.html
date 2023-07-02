@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Form Validation</h1>
+    <h2>validation deme</h2>
+    <form action="/dummy">
+        <label for="first">First Name:</label>
+        <input type="text" id="first" name="first-name" required>
+
+        <label for="username"></label>
+        <input type="text" name="username" id="username" minlength="5" maxlength="10" required>
+        <button>Submit</button>
+    </form>
+
+    <!-- Pattern for Validation -->
+    <form action="/dummy1">
+        <p><input type="email" required></p>
+        <p><input type="url" required></p>
+        <button>submit</button>
+    </form>
+</body>
+
+</html>

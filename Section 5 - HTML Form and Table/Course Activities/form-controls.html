@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Forms Demo</h1>
+
+    <form action="search">
+
+        <!-- use MDN to view deffirent attribute to input -->
+        <!-- search?username=use&password=pass&number=1 -->
+        <p>
+            <label for="username">Enter a Username</label>
+            <input type="text" placeholder="username" name="username" id="username">
+        </p>
+        <p>
+            <label for="password">Enter a Password</label>
+            <input type="password" placeholder="password" name="password" id="password">
+        </p>
+        <p>
+            <label for="number">Choose a number</label>
+            <input type="number" placeholder="enter a number" name="number" id="number">
+        </p>
+        <p>
+            <label for="cheese">Do you like cheese?</label>
+            <input type="checkbox" name="cheese" id="cheese">
+        </p>
+
+        <button>Submit</button>
+        <button type="button">Dont submit</button>
+        <input type="submit" value="Click Me">
+    </form>
+    <hr>
+    <!-- Practice Different Inputs -->
+    <h2>More Various Inputs</h2>
+    <form action="/1">
+        <h3>Checkbox</h3>
+        <input type="checkbox" name="agree_tos" id="agree">
+        <label for="agree">I agree to everything</label>
+
+        <h3>Radio-box</h3>
+        <div>
+            <label for="s">Small</label>
+            <input type="radio" name="size" id="s" value="s">
+            <label for="m">Medium</label>
+            <input type="radio" name="size" id="m" value="m">
+            <label for="l">Large</label>
+            <input type="radio" name="size" id="l" value="l">
+        </div>
+
+        <h3>Selects</h3>
+        <div>
+            <label for="color">Select Shirt Color</label>
+            <select name="shirt-color" id="color">
+                <option value="" selected>- Please Select a Color - </option>
+                <option value="White">White</option>
+                <option value="Gray">Gray</option>
+                <option value="Black">Black</option>
+            </select>
+        </div>
+
+        <h3>Number</h3>
+        <p>
+            <label for="number">Select a number:</label>
+            <input type="number" min="1" max="1000" step="10">
+        </p>
+
+        <h3>Range</h3>
+        <p>
+            <label for="volume">Volume</label>
+            <input type="range" id="volume" min="1" max="10" name="volume level">
+        </p>
+
+        <h3>Text-Area</h3>
+        <p>
+            <label for="comments">Any Comments</label>
+            <textarea id="comments" name="" id="" cols="40" rows="3" name="Comments"
+                placeholder="Type additional comment here!."></textarea>
+        </p>
+        <button>Submit</button>
+    </form>
+    <hr>
+
+
+</body>
+
+</html>
