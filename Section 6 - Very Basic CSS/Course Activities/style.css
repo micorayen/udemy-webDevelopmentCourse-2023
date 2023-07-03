@@ -1,0 +1,22 @@
+h2 {
+    /* - Hexadecimal color - */
+    color: #ff5353;
+    /* - Named Color - */
+    /*  background-color: grey;*/
+    /* - RGB - */
+    background-color: rgb(89, 151, 0);
+
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+}
+
+body {
+    background-color: darkslategrey;
+}

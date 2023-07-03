@@ -1,0 +1,20 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Conceptual Over of CSS - [Green]
+- Basic CSS Syntax - [Green]
+- Including Styles Correctly - [Green]
+- Color Systems: RGB, Hex, etc. - [Green]
+- font-family property - [Green]
+
+*_Important_*--------------------
+- Common Text Properties - [Green]
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Our First CSS Exercise
+- Color Quiz
+- Hipster Logo Exercise
+- 
