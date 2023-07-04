@@ -1,0 +1,26 @@
+*- Topics -*
+
+ - [Red]
+
+*_Crucial!_*--------------------
+- Element Selector - [Green]
+- Class Selector - [Green]
+- ID Selector - [Green]
+- Descendent Selector - [Green]
+- CSS Specificity - [Yellow]
+
+*_Important_*--------------------
+- Adjacent Selector  - [Green]
+- Direct Descendent Selector - [Green]
+- Attribute Selector - [Green]
+- Pseudo Selector - [Green]
+- Pseudo Classes - [Green]
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Basic Selector's Practice
+- Descendant Combinator Practice
+- Checkerboard Exercise
+- Specificity Quiz

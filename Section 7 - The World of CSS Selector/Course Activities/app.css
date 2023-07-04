@@ -1,0 +1,125 @@
+/* * {
+    background-color: rgb(255, 136, 0);
+} */
+
+button {
+    font-size: 25px;
+}
+
+h1,
+h2 {
+    color: #1d3557;
+}
+
+#signup {
+    background-color: #1d3557;
+    color: #f1faee;
+}
+
+span {
+    color: bblue;
+}
+
+.tag {
+    background-color: #e63945;
+    color: #f1faee;
+}
+
+/* descedant Selector */
+.post a {
+    color: rgb(0, 174, 255);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+footer a {
+    color: rgb(245, 67, 91);
+}
+
+/* Adjacent Selector */
+input+button {
+    background-color: rgb(166, 255, 0);
+}
+
+h2+button {
+    font-size: 20px;
+    background-color: rgb(248, 165, 56);
+}
+
+/* Direct-Child Selector */
+footer>a {
+    color: rgb(208, 255, 0);
+}
+
+/* Attribute Selector */
+input[type="password"] {
+    color: #e63945;
+}
+
+/* section[class="post"] {
+    background-color: #e63945;
+} */
+/* section.post {
+    background-color: rgb(236, 250, 255);
+} */
+
+/* a[href*="google"] {
+    color: blue;
+} */
+
+/* -------------------- */
+/* Pseudo-Classes */
+/* .post button:hover {
+    background-color: aquamarine;
+
+} */
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+.post button:active {
+    background-color: rgb(11, 218, 11);
+}
+
+input:checked+label {
+    color: #e63945;
+}
+
+input[type="checkbox"]:checked {
+    box-shadow: 0 0 0 3px red;
+}
+
+.post:nth-of-type(2n) {
+    background-color: rgb(236, 250, 255);
+}
+
+/* Pseudo Elements */
+h2::first-letter {
+    font-size: 40px;
+}
+
+p::first-line {
+    color: red;
+}
+
+p::selection {
+    background-color: #9d49fc;
+}
+
+/* Specificity */
+.post button:hover {
+    background-color: green;
+    /* font-size: 40px; */
+
+}
+
+button:hover {
+    background-color: red;
+    font-size: 10px;
+}
+
+/* Important Rule/Exception */
+button {
+    background-color: magenta !important;
+}
