@@ -1,0 +1,16 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Transitions - [Green]
+- Position Property - [Yellow]
+
+*_Important_*--------------------
+- Opacity & Aplha Channel - [Green]
+- Google Fonts - [Green]
+- The Full Story on the Background Property - [Yellow]
+
+*_Nice to have_*--------------------
+- Transforms - [Yellow]
+
+*_[Section Exercises]_*--------------------
+- Important reminder - just read it 

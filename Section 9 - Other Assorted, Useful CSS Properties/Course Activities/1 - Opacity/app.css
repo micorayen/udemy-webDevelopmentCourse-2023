@@ -1,0 +1,20 @@
+section {
+    width: 450px;
+    height: 450px;
+    background-color: #ff0000;
+}
+
+/* only affect background color not text-etc. */
+#rgba {
+    width: 50%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* only affect background color not text-etc. */
+#opacity {
+    width: 50%;
+    height: 50%;
+    background-color: rgba(251, 255, 0, 0.9);
+    opacity: 0.5;
+}
