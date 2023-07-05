@@ -1,0 +1,18 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Width & Height - [Green]
+- Border - [Green]
+- Padding - [Green]
+- Margin - [Green]
+- Display Property - [Yellow]
+- Units - percentages, EMS & REMS - [Yellow]
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- Border Radius - [Green]
+
+*_[Section Exercises]_*--------------------
+- Box Model Practice 

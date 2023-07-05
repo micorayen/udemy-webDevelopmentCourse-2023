@@ -1,0 +1,86 @@
+section {
+    background-color: rgb(92, 36, 36);
+    width: 800px;
+    height: 800px;
+}
+
+div {
+    background-color: brown;
+
+    /* 50% height and width of parent elements("Section") */
+    width: 70%;
+    height: 20%;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+    /* line-height: 120%; */
+    line-height: 1em;
+}
+
+#ems h2 {
+    font-size: 2em;
+    margin-left: 1em;
+}
+
+#ems h3 {
+    font-size: 1.5em;
+}
+
+#ems p {
+    font-size: 1em;
+}
+
+#ems {
+    font-size: 20px;
+}
+
+button {
+    /* font-size: 30px;
+    padding: 0 30px;
+    border-radius: 15px;
+    background-color: aqua; */
+
+    /* to keep the border radius relative even if button is enlarge or not, unlike first codes*/
+    font-size: 1em;
+    padding: 1 1em;
+    border-radius: 0.5em;
+    background-color: aqua;
+}
+
+.click:hover {
+    background-color: green;
+}
+
+.click:active {
+    background-color: aliceblue;
+}
+
+/* Problem with EMS */
+ul {
+    font-size: .7em;
+
+}
+
+/* Learning Rem */
+
+html {
+    font-size: 25px;
+}
+
+#rems h2 {
+    font-size: 3rem;
+}
+
+#rems h3 {
+    font-size: 2rem;
+}
+
+#rems ul {
+    font-size: 1rem;
+}
+
+#rems button {
+    font-size: 1.9rem;
+}

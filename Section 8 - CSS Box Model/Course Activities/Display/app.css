@@ -1,0 +1,40 @@
+h1 {
+    background-color: paleturquoise;
+    border: 1px solid black;
+
+    /* width, height, margin and padding are respected */
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding-bottom: 10px;
+    /* for this block element to behave as Inline element */
+    /* display: inline; */
+
+}
+
+#practiceInline {
+    /* background-color: rgb(255, 255, 255); */
+    border: 1px solid black;
+
+    /* inline elements ignored height and width */
+    width: 500PX;
+    height: 500px;
+    /*Margin and Padding are Push away thing horizontally not vetically */
+    padding: 50px;
+    margin: 50px;
+
+}
+
+div {
+    height: 150px;
+    width: 150px;
+    background-color: olivedrab;
+    border: 5px solid black;
+
+    margin: 25px;
+    /*  behave like an inline, but width, height, margin and padding are respected */
+    display: inline-block;
+
+    /* hide things - use */
+    display: none;
+}
