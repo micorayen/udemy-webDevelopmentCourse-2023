@@ -1,20 +1,18 @@
 *- Topics -*
 
- - [Red]
-
 *_Crucial!_*--------------------
-- 
-- 
-- 
+- Media Queries
+- Focus on concept, Not memorizing the properties!
+- Flex Shorthand
+- Flex-basis, grow and shrink
+- Align-items
+- Flex-wrap
+- Align-content and Align-self
 
 *_Important_*--------------------
 - 
-- 
-- 
 
 *_Nice to have_*--------------------
-- 
-- 
 - 
 
 *_[Section Exercises]_*--------------------
