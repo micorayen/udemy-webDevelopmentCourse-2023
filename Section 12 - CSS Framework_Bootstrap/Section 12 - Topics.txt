@@ -1,0 +1,21 @@
+*- Topics -* Matters is the things they do, not specific how they implemented
+
+*_Crucial!_*--------------------
+- WTF is Bootstrap - [Green]
+- Working w/ CSS Frameworks - [Green]
+- Including 3rd Party CSS & CDNS - [Green]
+
+*_Important_*--------------------
+- Bootstap Grid - [Yellow]
+- Responsive Bootstrap Grid - [Yellow]
+- Bootstrap Navbars - [Yellow]
+
+*_Nice to have_*--------------------
+- Icons - [Green]
+- Typography and Utilities - [Green]
+- Bootstap Forms - [Yellow]
+- Bootstrap Buttons - [Green]
+
+*_[Section Exercises]_*--------------------
+- Bootstrap Basics Practice
+- Bootstrap Grid Practice

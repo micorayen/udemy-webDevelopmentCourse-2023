@@ -1,0 +1,18 @@
+h1 {
+    text-align: right;
+}
+
+/* span.badge.badge-danger {
+    color: black;
+} */
+
+.row div {
+    border: 1px solid black;
+    box-sizing: border-box;
+
+
+}
+
+.row.no-gutters div {
+    margin: 10px auto;
+}
