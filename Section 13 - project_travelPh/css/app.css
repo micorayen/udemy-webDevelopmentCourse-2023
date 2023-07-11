@@ -1,0 +1,160 @@
+body {
+    font-family: "jost", sans-serif;
+}
+
+/* NavBar Section */
+#MainNavbar {
+
+    background-color: #181e27;
+}
+
+#MainNavbar .navbar-brand {
+    font-size: 2rem;
+    padding: 10px 22px;
+}
+
+#MainNavbar .dropdown-menu {
+    background-color: #181e27;
+}
+
+
+#MainNavbar .nav-link:hover {
+    color: #d4a373;
+}
+
+#MainNavbar .dropdown-item:hover {
+    color: #d4a373;
+}
+
+/* End of NavBarSection */
+
+/* Hero Section */
+#hero-section {
+    background-image: url(hero-img/hero-img.jpg);
+    background-position: top left;
+    background-size: cover;
+    height: 85vh;
+}
+
+#hero-section .hero-text {
+    color: white;
+    text-shadow: 5px 5px 10px rgba(255, 255, 255, .2);
+}
+
+/* End of Hero Section */
+
+/* Content Section */
+#item1-section {
+    background-color: #edf2f4;
+}
+
+#item2-section {
+    background-color: #edf2f4;
+}
+
+#item3-section {
+    background-color: #edf2f4;
+}
+
+/* End of Content Section */
+
+/* Footer Section */
+#footer-section {
+    background-color: #181e27;
+}
+
+.section-3 .center {
+    width: 100%;
+    height: 50vh;
+}
+
+h2.section-3-heading {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.contact {
+    color: #aaa;
+}
+
+.cp-text {
+    color: #aaa;
+    border-top: 0.1rem solid #aaa;
+}
+
+/* End of Footer Section */
+
+/* Media Queries -------------------- */
+/* XXL */
+@media (max-width: 1400px) {
+    #hero-section .hero-text {
+        font-size: 5rem;
+        letter-spacing: 4px;
+        font-weight: 600;
+    }
+
+}
+
+/* XXL */
+@media (max-width: 1200px) {
+    #hero-section .hero-text {
+        font-size: 4.5rem;
+        letter-spacing: 4px;
+        font-weight: 600;
+    }
+
+}
+
+/* LG */
+@media (max-width: 992px) {
+    #hero-section .hero-text {
+        font-size: 4rem;
+        letter-spacing: 3.5px;
+        font-weight: 600;
+    }
+}
+
+/* Additional Size-personal */
+@media (max-width: 820px) {
+    #hero-section .hero-text {
+        font-size: 3.5rem;
+        letter-spacing: 3.5px;
+        font-weight: 600;
+    }
+
+    .lead {
+        font-size: 1.1rem;
+        font-weight: 300;
+    }
+}
+
+/* MD */
+@media (max-width: 768px) {
+    #MainNavbar .navbar-brand {
+        font-size: 2rem;
+        padding: 10px 0;
+    }
+
+    #hero-section .hero-text {
+        font-size: 3rem;
+        letter-spacing: 3px;
+        font-weight: 600;
+    }
+
+    .lead {
+        font-size: 1.25rem;
+    }
+
+    #item1-section .row {
+        margin: 20px 0;
+    }
+
+    #item2-section .row {
+        margin: 20px 0;
+    }
+
+    #item3-section .row {
+        margin: 20px 0;
+    }
+}
