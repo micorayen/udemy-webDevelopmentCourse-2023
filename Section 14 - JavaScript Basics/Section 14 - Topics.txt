@@ -1,0 +1,22 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Understanding the role of JavaScript - [Green]
+- JavaScript Numbers - [Green]
+- Variable and List - [Green]
+- Const - [Green]
+- Booleans - [Green]
+- Variable Naming - [Green]
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Our First Variables Exercise 
+- Increment Operator Explanation
+- Our First Constants Exercise
+- Variable Quiz
+- Quick Variable Quiz

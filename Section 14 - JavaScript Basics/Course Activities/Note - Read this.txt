@@ -1,0 +1,3 @@
+Course Activities are done in the: 
+
+- Google> Developer tool > JavaScript Console.
