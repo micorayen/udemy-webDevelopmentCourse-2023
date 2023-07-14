@@ -1,0 +1,21 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- String Basics - [Green]
+- Indices and Length - [Green]
+- Undefine & Null - [Green]
+- String Methods - [Yellow]
+- String Template Literals - [Green]
+
+*_Important_*--------------------
+- Random Numbers and the Math Object - [Yellow]
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Our First String Variables Practice
+- Strings Basics Quiz
+- String Methods Practice
+- More String Methods Practice
+- String Template Literal Exercise
