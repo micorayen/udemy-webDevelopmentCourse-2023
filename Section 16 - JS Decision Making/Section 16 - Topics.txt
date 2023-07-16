@@ -1,0 +1,23 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Comparison Operators - [Green]
+- Running JavaScript From a File - [Green]
+- Conditionals: If, Else-if, and Else - [Yellow]
+- Truth-y and False-y Values - [Green]
+- Logical AND - [Yellow]
+- Logical OR - [Yellow]
+- Logical NOT - [Yellow]
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Comparison Quiz
+- Our FirstConditional Exercise
+- getColor Conditional Exercise
+- Nested Conditionals Practice
+- Logical AND Mystery Exercise
