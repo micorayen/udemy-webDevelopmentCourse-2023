@@ -1,0 +1,20 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Array Basics - Creating and Updating - [Yellow]
+- Push & Pop - [Green]
+-  Shift and Unshift - [Green]
+
+*_Important_*--------------------
+- Concat, IndexOf - [Green]
+- Slice & Splice - [Yellow]
+- Multi-Dimensional Arrays - [Yellow]
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Lotto Numbers Exercise
+- Array Access Exercise
+- Push/Pop/Shift/Unshift Practice
+- Nested Arrays Exercise 
