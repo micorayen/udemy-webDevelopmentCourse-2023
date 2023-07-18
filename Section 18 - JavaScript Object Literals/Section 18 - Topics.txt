@@ -1,0 +1,19 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Creating and Working w/ Object Literals - [Yellow]
++ Introducing Object Literals
++ Creating Object Literals
++ Accessing Data out of Object
++ Modifying Objects
+- Nesting Arrays and Objects - [Yellow]
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Our First Object Exercise
+- Object Access Exercise
