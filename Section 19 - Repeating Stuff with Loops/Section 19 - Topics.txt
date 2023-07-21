@@ -1,0 +1,22 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- For Loops - [Red]
+- While Loops  - [Yellow]
+- The Break Keyword - [Green]
+- For...Of Loop - [Green]
+- Iterating Arrays - [Red]
+
+*_Important_*--------------------
+- Nested Loops - [Red]
+
+*_Nice to have_*--------------------
+- Iterating Objects - [Green]
+
+*_[Section Exercises]_*--------------------
+- Our First, For Loop Practice
+- More For Loops Practice
+- Iterating Arrays Exercise
+- For...Of Practice
+- 
+- 
