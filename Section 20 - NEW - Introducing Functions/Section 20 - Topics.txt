@@ -1,0 +1,25 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Intro to Functions - [Yellow]
+- Our very first functions - [Yellow]
+- Arguments intro - [Yellow]
+- Functions w/ Multiple Arguments - [Yellow]
+- The Return Keyword: Function return values - [Yellow]
+
+*_Important_*--------------------
+- 
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Heart function Exercise - [Red]
+- Rant Exercise - [Red]
+- Multiple Args Exercise - [Red]
+- Return Value Practice - [Red]
+- isShortWeather Function - [Red]
+- Last Element Exercise - [Red]
+- Capitalize Exercise - [Red]
+- Sum Array Exercise - [Red]
+- Days of the Week Exercise - [Red]
