@@ -1,0 +1,22 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Function Scope - [Yellow]
+- Block Scope - [Yellow]
+- Lexical Scope - [Yellow]
+- Function Expressions - [Green]
+- Higher Order Functions - [Red]
+
+*_Important_*--------------------
+- Returning Functions - [Red]
+- The keyword "this" - [Red]
+- Adding Methods to Objects - [Yellow]
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Function Scope Quiz
+- Function Expression Exercise
+- Methods Exercise
+- Egg Laying exercise
