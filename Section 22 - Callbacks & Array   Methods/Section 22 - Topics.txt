@@ -1,0 +1,21 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- ForEach - [Yellow]		//Not as crucial today, but use in legacy/real  world
+- Map - [Yellow]			//Most important here
+- Arrow Functions - [Yellow]		//shorter syntax
+- Arrow Implicit Return - [Yellow]	
+- Arrow WrapUp - [Yellow]	
+
+*_Important_*--------------------
+- Filter - [Yellow]			//Dont stress about it as much
+
+*_Nice to have_*--------------------
+- Some & Every - [Yellow]			
+- Reduce  - [Red]			//worth knowing,not worth derailing yourself in course 
+
+*_[Section Exercises]_*--------------------
+- Map Practice
+- Arrow Function Exercise
+- Arrow Functions Wrapup
+- Filter Exercise
