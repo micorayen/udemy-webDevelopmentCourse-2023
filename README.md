@@ -4,7 +4,7 @@
 
 _My progress on this course_
 
-## Description
+## Status
 
  Currently learning: JavaScript
 

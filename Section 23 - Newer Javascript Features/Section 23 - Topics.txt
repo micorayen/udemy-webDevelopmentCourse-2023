@@ -1,0 +1,19 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Spread with Array Literals
+- Spread with Objects
+- Destructuring Arrays
+- Destructuring Objects
+- Destructuring Params
+
+*_Important_*--------------------
+- Default Params
+- Spread in Function Calls
+- Rest Params
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- 
