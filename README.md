@@ -6,8 +6,8 @@ _My progress on this course_
 
 ## Status
 
- Currently learning: JavaScript
+Currently learning: JavaScript (Async)
 
 ## Author
 
-* **Mico Rayen** - _Aspiring Software Developer_ - [Portfolio Website](https://micorayen.github.io/)
+- **Mico Rayen** - _Aspiring Software Developer_ - [Portfolio Website](https://micorayen.github.io/)

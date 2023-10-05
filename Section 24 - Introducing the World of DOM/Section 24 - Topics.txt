@@ -1,0 +1,27 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Intro to the DOM - [Green]
+- getElementById - [Yellow]
+- querySelector - [Yellow]
+- innerHTML and Text - [Green]
+- Changing Styles - [Yellow]
+- classList - [Green]
+- Creating/Removing Elements - [Yellow]
+
+*_Important_*--------------------
+- Manipulating Attributes  - [Yellow]
+- Traversing the DOM  - [Yellow]
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- getElementById Practice
+- querySelector Practice
+- Pickles Exercise
+- Manipulating Attributes Practice
+- Magical Forest Circle Exercise
+- Rainbow Tet Exercise
+- classList Practice
+- 100 Button Insanity Exercise
