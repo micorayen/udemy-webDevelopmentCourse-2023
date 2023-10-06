@@ -1,0 +1,29 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Introducing Events - [Green]
++ Inline Events
++ The Onclick Property
+- addEventListener - [imp.Yellow]
++ Random Color Exercise
++ Event & This Keyword
+- Form Events - [Green}
++ Form Events & PreventDefault
++ Practice w Form Events
+
+*_Important_*--------------------
+- Keyboard Events + Event Object - [Yellow]
+- Input & Change Events - [Yellow]
+- Event Bubbling - [Yellow]
+- Event Delegation - [Red] (Dont get hang-up)
+
+*_Nice to have_*--------------------
+- 
+
+*_[Section Exercises]_*--------------------
+- Know Thy Enemy Exercise
+- Clcik Events Exercise
+- Form Event Exercise
+- Input Event Exercise
+- 
+- 

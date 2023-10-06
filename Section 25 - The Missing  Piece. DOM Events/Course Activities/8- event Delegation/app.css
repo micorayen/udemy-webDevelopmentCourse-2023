@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  display: inline-block;
+}
+
+button {
+  width: 100px;
+  margin: 10px;
+}
+
+.div-1 {
+  width: 200px;
+}
+
+.hide {
+  display: none;
+}
