@@ -1,0 +1,14 @@
+Points
+- change points, select and manipulate using JS
+- add IDs to points to distinct it.
+Buttons
+- add 3 buttons p1, p2, & reset - put idon it
+
+JS
+-  add script to mockUp - test it outright
+
+Logic
+- when clikc  p1 - add 1 pts to player 1 , do sameon p2
+- when clicked reset - reset points to 0 and reset to default color(pts)
+- stop pts increment when it hits winning score (apply on both players)
+- when a player hits winning score - disabled p1 & p2 buttons
