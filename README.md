@@ -6,7 +6,7 @@ _My progress on this course_
 
 ## Status
 
-Currently learning: JavaScript (Async)
+Currently learning: Node (Basic stuff)
 
 ## Author
 
