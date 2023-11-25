@@ -1,0 +1,16 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Working w/ Promises - [Red]
+- Async Functions - [Yellow] 
+
+*_Important_*--------------------
+- The Call Stack - [Red] - needed for a role, imp not critical
+- Callback Hell - [Yellow] 
+
+*_Nice to have_*--------------------
+- Understanding WebAPI's - [Red]- not need master,like how certain things work]
+- Creating Our Own Promises - [Red] - nice to have, not essential to this point
+
+*_[Section Exercises]_*--------------------
+- 
