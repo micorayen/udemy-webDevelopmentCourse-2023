@@ -1,0 +1,28 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
++ intro to AJAX
+- Working w/ APIs - [Green]
++ Intro to APIs
+- Intro to JSON - [Green]
++ WTF is JSON
+- Working w/ Axios
++ Introducing Axios
++ Setting Headersw/ Axios - [Yellow]
++ TV Show Search App
+
+*_Important_*--------------------
+- Postman - [Green] - Note:there are some other similar tools
++ Using Hoppscotch (or Postman)
+- The Fetch API - [Yellow] - newer ways of making request
++ Using Fetch API
+
+*_Nice to have_*--------------------
+- Making XHRs (XML Http Request) -[Red] - old clunky way, JS roots, they sucks & old
++ HTTP Verbs
++ HTTP Status Codes
++ HTTP Headers
++ Making XHRs
+
+*_[Section Exercises]_*--------------------
+- 
