@@ -1,0 +1,16 @@
+*- Topics -*
+
+*_Crucial!_*--------------------
+- Object Prototypes (The Concept)  - [Yellow]
+- Defining Classes  - [Yellow]
+- Extend & Super  - [Yellow]
+
+*_Important_*--------------------
+- The "New" Keyword (The 4 things it done) - [Red]
+
+*_Nice to have_*--------------------
+- Defining Constructor Functions (The Old way)  - [Red]
+- Converting Colors & Associated Crazy Math     - [Red]
+
+*_[Section Exercises]_*--------------------
+- 
