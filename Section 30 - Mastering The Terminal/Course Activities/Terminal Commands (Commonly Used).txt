@@ -1,0 +1,33 @@
+*- Topics -*
+
+*- The Basics: LS & PWD
+- LS 	- List Files and Folder
+- PWD 	- Printout Current Directory
+---------------------------------------------------
+*- Changing Directories  (CD)
+- CD + full folder directory ("C:\Users\cjarn\Desktop\Web Dev Course\Section 30 - Mastering The Terminal") - Absoute Path
+- CD .. - means to backout from current dir/folder
+------------------------------------------------------------------------------------------------------
+*- Relative vs Absolute Paths
+- Relative Path - paths relative to your current dir/folder
+- Absolute Path - is something you can use whereever you are,
+	        - cd "C:\Users\cjarn\Desktop\Web Dev Course\Section 30 - Mastering The Terminal"
+------------------------------------------------------------------------------------------------------
+*- Making Directories (MKDIR)
+- MKDIR + Foldername - create folder
+- MKDIR + existingFolder/folder1 folder2 - "create folder1 inside existingFolder, & create create folder2 at current Dir/folder"
+------------------------------------------------------------------------------------------------------
+*- Man Pages & Flags
+- Man or manual - ie: man ls
+- Flags - optional additional arguments that can be used w/ terminal commands
+------------------------------------------------------------------------------------------------------
+*- The Touch Command (Touch)
+- Touch - Change file access or modification time, if the file doesn't exist, it will create the file
+- ie: touch index.html app.js
+------------------------------------------------------------------------------------------------------
+*- Removing Files & Folders (RM, RMDIR, RM -RF)
+- RM + File's name or Folder name - "Remove them files/folder"
+- RMDIR + Folder name = "remove empty folders"
+- RM -RF - "can remove multiple or nested directories/folders and all files in it"
+_ Recursive - "remove nested or multiple folders"
+_ Force - "removes everything w/o asking permission, & regardless the file's permission"
