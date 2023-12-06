@@ -1,0 +1,13 @@
+**-Topics **
+
+**Crucial!
+- Installation - [Yellow]
+- The Node REPL - [Green]
+- Running Node Files  - [Green]
+
+**Important
+- Process - [Green] 
+
+**Nice to have
+- ARGV - [Yellow]
+- File System Module - [Red]
