@@ -1,0 +1,20 @@
+**-Topics **
+
+**Crucial!
+- Module Exports - [Green]
+- Requiring Modules
+- Using NPM
+- Installing Packages
+- Creating Package.json files 
+
+**Important
+-  
+
+**Nice to have
+- The Dad Jokes Package  - [Green]
+- Rainbow Package
+- The Figlet Package
+- Franc Package - Yellow
+
+**[Section Exercises]
+- Project: Language Guesser
