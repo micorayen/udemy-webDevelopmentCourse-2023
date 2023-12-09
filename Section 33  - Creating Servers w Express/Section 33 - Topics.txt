@@ -1,0 +1,11 @@
+**-Topics **
+
+**Crucial!
+- What are Frameworks?
+- Our First Express App
+- Routing Basics
+- Path Parameters
+- Working w Query Strings
+
+**Important
+- Nodemon
