@@ -1,0 +1,10 @@
+**-Topics **
+
+**Crucial!
+- What is Templating? - [ Green]
+- Configure Express for EJS  - [ Yellow ]
+- Passing Data Templates
+- Serving Static Assets - [ Green]]
+- Creating Partials - [ Yellow ]
+- EJS Loops and Conditionals  - [ Red ]
+ 
