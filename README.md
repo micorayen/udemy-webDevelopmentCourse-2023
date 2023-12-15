@@ -6,7 +6,7 @@ _My progress on this course_
 
 ## Status
 
-Currently learning: Node (Basic stuff)
+Currently learning: MongoDB(Basic)
 
 ## Author
 

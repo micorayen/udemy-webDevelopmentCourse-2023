@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit Comments</title>
+  </head>
+  <body>
+    <h1>EDIT COMMENTS</h1>
+
+    <!-- Submit data to /comments -->
+    <!-- <form action="/comments/:id" method='patch'> -->
+    <form action="/comments/<%= comment.id %>" method='post'>
+      <div>
+        <h2>/comments/<%= comment.id %></h2>
+        <label for="id">ID:</label>
+        <input disabled
+          type="text"
+          id="id"
+          value="<%= comment.id %>"
+        />
+        <label for="username">Username:</label>
+        <input disabled
+          type="text"
+          id="username"
+         value="<%= comment.username %>"
+        />
+      </div>
+      <div>
+        <label for="comment">Update Comments Here:</label>
+        <br />
+
+        <textarea name="comment" id="comment" cols="30" rows="5" ><%= comment.comment %></textarea>
+      </div>
+      <button>Submit</button>
+      
+
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit2 - Colt</title>
+</head>
+<body>
+    <h1>EDIT COMMENTS - COLT</h1>
+
+    <!-- <form method="POST" action="/resource?_method=DELETE"> //- Docs --> 
+    <form method="POST" action="/comments/<%= comment.id %>/?_method=PATCH" >
+        <div>
+          <h2>ID: <%= comment.id %></h2>
+         
+        </div>
+        <div>
+        <h2>Username: <%= comment.username %></h2>
+    </div>
+        <div>
+          <label for="comment">Update Comments Here:</label>
+          <br />
+  
+          <textarea name="comment" id="comment" cols="30" rows="5" ><%= comment.comment %></textarea>
+        </div>
+        <button>Submit</button>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Comments</title>
+  </head>
+  <body>
+    <H1> COMMENTS</H1>
+
+    <ul>
+      <% for(let c of comments){ %>
+
+      <li>
+        <%= c.comment %> - <b><%= c.username %></b>
+        <a href="/comments/<%= c.id %>">details</a>
+        <a href="/comments/<%= c.id %>/edit">edit</a>
+      </li>
+      <% } %>
+    </ul>
+
+    <hr />
+    Option: Go to:
+    <div>
+      <a href="/comments/new">Add New Comment</a>
+    </div>
+  </body>
+</html>

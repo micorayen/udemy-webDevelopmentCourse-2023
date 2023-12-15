@@ -1,0 +1,11 @@
+**-Topics **
+
+**Crucial!
+- GET vs POST Request  - [ Green ]
+- Handling Post Request in Request - [ Yellow ]
+- Parsing Request Body - [ Green ]
+- Form + Express - [ Red ]
+
+**Important
+- Method Override - [ Yellow ]
+- Restful Routing  - [ Red ]
