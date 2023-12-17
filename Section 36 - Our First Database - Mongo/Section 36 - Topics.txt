@@ -1,0 +1,13 @@
+**-Topics **
+
+**Crucial!
+- Installation  - [ Red ]
+- The Mongo Shell - [ Green ]
+- Mongo Inserts - [ Yellow ]
+- Mongo Finding/Query
+- Mongo Updates
+- Mongo Deletion
+
+**Important
+- Database Basics - [ Green ]
+- SQL vs NO-SQL 

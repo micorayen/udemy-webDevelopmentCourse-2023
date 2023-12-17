@@ -1,0 +1,7 @@
+** Mongo Terminal **
+
+* Activity Done: 
+- Learn basic of Mongo commands
+- Create database
+- Practice CRUD using mongo commands (Insert, Find, Update/Replace, Delete)
+- Learn some basic Operators (<, >, = etc), (Gates: OR AND etc..)
