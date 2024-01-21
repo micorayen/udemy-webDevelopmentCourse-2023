@@ -1,0 +1,17 @@
+**-Topics **
+
+**Crucial!
+- The Role  of ORM/ODM's - [ Green]
+- Connecting Mongoose to Mongo
+- Defining A Model - [ Yellow]
+- Mongoose CRUD
+- Schema Constraints
+
+**Important
+- Model Instance & Static Methods - [ Yellow ]
+- Mongoose Middleware  - [ Red ]
+
+**Nice to have
+- Mongoose Virtuals  - [ Red ]
+
+
