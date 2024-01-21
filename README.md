@@ -6,7 +6,7 @@ _My progress on this course_
 
 ## Status
 
-Currently learning: MongoDB(Basic)
+Currently learning: Mongoose + Express, EJS
 
 ## Author
 
