@@ -1,0 +1,16 @@
+**-Topics **
+
+**Crucial!
+- Integrating Mongoose w Express - [ Yellow ]
+- Defining Our Model
+- Products Index - [ Green ]
+- Product Details
+- Creating Products - [ Yellow ]
+- Updating Products - [ Red ]
+- Deleting Products - [ Green]
+
+**Important
+- 
+
+**Nice to have
+- Filtering By Category - [ Red ]
