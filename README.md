@@ -6,7 +6,8 @@ _My progress on this course_
 
 ## Status
 
-Currently learning: Mongoose + Express, Middleware
+Currently learning: Mongoose + Express, NPM, Middleware
+Currently building: YelpCamp (last-Project on the Course)
 
 ## Author
 
