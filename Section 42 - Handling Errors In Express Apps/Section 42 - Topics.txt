@@ -1,0 +1,10 @@
+**-Topics **
+
+**Crucial!
+- Defining Custom Error Handlers - [ Yellow ]
+- Handling Async Errors - [ Red ]
+- Defining  Custom Error Class - [ Yellow ]
+
+**Important
+- Express' Bulit Error Handler  - [ Green ]
+- Working with Mongoose Errors - [ Yellow ]
