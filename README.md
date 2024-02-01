@@ -6,9 +6,10 @@ _My progress on this course_
 
 ## Status
 
-Currently learning: Mongoose + Express, NPM, Middleware
+Currently learning: (Cookies, Flash & Auth)
+<br>
 Currently building: YelpCamp (last-Project on the Course)
 
 ## Author
 
-- **Mico Rayen** - _Aspiring Software Developer_ - [Portfolio Website](https://micorayen.github.io/)
+- **Mico Rayen** - _Aspiring Software Developer_ - [Portfolio Website](https://micorayen.github.io/mar)
