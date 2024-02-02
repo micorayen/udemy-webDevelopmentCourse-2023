@@ -1,0 +1,10 @@
+**-Topics **
+
+- Where to Next with YelpCamp?
+- Client-Side Form Validations
+- Basic Error Handler
+- Defining Express Error Class
+- More Errors
+- Defining Error Template
+- JOI Schema Validations
+- JOI Validation Middleware
