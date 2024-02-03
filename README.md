@@ -6,9 +6,11 @@ _My progress on this course_
 
 ## Status
 
-Currently learning: (Cookies, Flash & Auth)
+Current Focus: Cookies, Flash, Auth
 <br>
-Currently building: YelpCamp (last-Project on the Course)
+Actively Learning: Node.js (w/ Mongoose, Express, EJS)
+<br>
+Building: YelpCamp Campground (Final Project in my Course)
 
 ## Author
 

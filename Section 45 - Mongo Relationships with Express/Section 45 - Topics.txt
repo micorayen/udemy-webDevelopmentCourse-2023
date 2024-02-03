@@ -1,0 +1,9 @@
+**-Topics **
+
+**Crucial!
+- Deleting with Mongo Middleware - [ Red ]
+
+**Important
+- Defining Our Farm & Product Models - [ Yellow ]
+- Creating Farms
+- Farms Show Page
