@@ -1,0 +1,13 @@
+**-Topics **
+
+**Crucial!
+- One to Few - [ Yellow ]
+- One to Many - [ Red ]
+- One to Bajilions
+- Populate - [ Green ]
+
+**Important
+- Mongo Schema Design  - [ Red ]
+
+**Nice to have
+- SQL Relationships Overview - [ Yellow ]

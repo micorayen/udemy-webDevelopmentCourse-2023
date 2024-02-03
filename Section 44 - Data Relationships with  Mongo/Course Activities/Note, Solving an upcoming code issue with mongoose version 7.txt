@@ -1,0 +1,27 @@
+Note: Solving an upcoming code issue with mongoose version 7
+Important note regarding the upcoming video lecture!
+Be sure to fully watch the next video lecture to find out and understand which code we are referring to in this note.
+
+The potential error that you might get with the newest mongoose version 7 while writing the code in the next video: TypeError: Invalid schema configuration: `false` is not a valid type at path `id`.
+
+SOLUTION:
+
+In that next video lecture, toward the last part of the video, in the models/user.js code, we will be implementing the following line of code in the addresses array inside of a mongoose schema named userSchema:
+
+      _id: {id: false},
+If adding this line makes your app show the error message mentioned above, you might be using the newest mongoose 7 module versions.
+
+To solve it, modify the mentioned line by adding an underscore _ before the id in the { _id: false } syntax on that line. So, that line should now look like this:
+
+      _id: {_id: false},
+That should solve any mongoose version 7 errors related to it.
+
+ANOTHER SOLUTION:
+
+To avoid compatibility issues with this and to be able to use Colt's exact code from the upcoming video lecture, you can install a mongoose version lower than 7.0.0 by using the following npm command, and then that error shouldn't happen:
+
+npm install mongoose@"<7.0.0"
+
+(be sure to type or copy-paste this command exactly as shown above)
+
+If you need more help with any of this, please reach out to the Q&A boards!

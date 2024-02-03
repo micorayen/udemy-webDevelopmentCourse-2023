@@ -1,0 +1,33 @@
+Doc: https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design
+---------------------------------------------------------------------------------------------
+*Database denormalization rules of thumb: Your guide through the rainbow
+Here are some “rules of thumb” to guide you through these innumerable (but not infinite) choices:
+
+One: Favor embedding unless there is a compelling reason not to.
+
+Two: Needing to access an object on its own is a compelling reason not to embed it.
+
+Three: Arrays should not grow without bound. If there are more than a couple of hundred documents on the “many” side, don’t embed them; if there are more than a few thousand documents on the “many” side, don’t use an array of ObjectID references. High-cardinality arrays are a compelling reason not to embed.
+
+Four: Don’t be afraid of application-level joins: If you index correctly and use the projection specifier, then application-level joins are barely more expensive than server-side joins in a relational database.
+
+Five: Consider the read-to-write ratio with denormalization. A field that will mostly be read and only seldom updated is a good candidate for denormalization. If you denormalize a field that is updated frequently then the extra work of finding and updating all the instances of redundant data is likely to overwhelm the savings that you get from denormalization.
+
+Six: As always with MongoDB, how you model your data depends entirely on your particular application’s data access patterns. You want to structure your data to match the ways that your application queries and updates it.
+
+Your guide to the rainbow
+When modeling “One-to-N” relationships in MongoDB, you have a variety of choices, so you have to carefully think through the structure of your data. The main criteria you need to consider are:
+
+What is the cardinality of the relationship? Is it “one-to-few,” “one-to-many,” or “one-to-squillions”?
+
+Do you need to access the object on the “N” side separately, or only in the context of the parent object?
+
+What is the ratio of updates-to-reads for a particular field?
+
+Your main choices for structuring the data are:
+
+For “one-to-few,” you can use an array of embedded documents.
+
+For “one-to-many,” or on occasions when the “N” side must stand alone, you should use an array of references. You can also use a “parent-reference” on the “N” side if it optimizes your data access pattern.
+
+For “one-to-squillions,” you should use a “parent-reference” in the document storing the “N” side.
