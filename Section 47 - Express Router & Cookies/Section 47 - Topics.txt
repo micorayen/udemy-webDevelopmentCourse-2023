@@ -1,0 +1,12 @@
+**-Topics **
+
+**Crucial!
+- Express Router Basics - [ Yellow ]
+- Understading Cookies
+- Cookie Parser - [ Green ]
+
+**Important
+- Signed Cookies  - [ Yellow ]
+
+**Nice to have
+- HMAC Signing - [ Red ]
