@@ -6,7 +6,7 @@ _My progress on this course_
 
 ## Status
 
-Current Focus: Cookies, Flash, Auth
+Current Focus: Auth
 <br>
 Actively Learning: Node.js (w/ Mongoose, Express, EJS)
 <br>

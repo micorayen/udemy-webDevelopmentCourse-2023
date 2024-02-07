@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Products</title>
+  </head>
+  <body>
+    <div>
+      <h1><%= category %> Products:</h1>
+      <label for="category">Select Category:</label>
+      <select name="category" id="category">
+        <option value="All" <%= category === "All" ? 'selected' : '' %>>All Products</option>
+        <% for(let categoryItem of categories) { %>
+          <option value="<%= categoryItem %>" <%= category === categoryItem ? 'selected' : '' %>>
+            <%= categoryItem %>
+          </option>
+        <% } %>
+      </select>
+    </div>
+    
+    <script>
+      const comboBox = document.getElementById("category");
+    
+      comboBox.addEventListener("change", function () {
+        const selectedValue = comboBox.value;
+    
+        if (selectedValue !== "All") {
+          window.location.href = `/products?category=${selectedValue}`; // Update href based on selected value
+        } else {
+          window.location.href = `/products`;
+        }
+      });
+    </script>
+
+    <ul>
+      <% for(let product of products) { %>
+      <li>
+        <a href="/products/<%= product._id %>"><%= product.name %></a>
+      </li>
+      <% } %>
+    </ul>
+    <a href="/farms">All Farms</a>
+
+  </body>
+</html>
