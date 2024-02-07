@@ -1,0 +1,9 @@
+**-Topics **
+
+- Breaking Out Campground Routes
+- Breaking Out Review Routes
+- Serving Static Assets
+- Configuring Session
+- Setting Up Flash
+- Flash Sucess Partial
+- Flash Errors Partial

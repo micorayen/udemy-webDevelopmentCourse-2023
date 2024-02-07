@@ -1,0 +1,16 @@
+
+-RESTRUCTURE
+**Topic: Breaking Out Campground Routes
+- create new-folder 'routes', and Move the Campground-routes and error-validation-middleware from index-file another '/routes/campground.js', and also use express-router
+= Organize routes: Move Campground routes to '/routes/campgrounds.js' and implement Express Router.
+
+**Topic: Breaking Out Review Routes
+= Organize routes: Move Review routes to '/routes/reviews.js' and implement Express Router.
+
+**Topic: Serving Static Assets
+- feat: add session middleware configuration
+
+**Topic: Configuring Session
+**Topic: Setting Up Flash
+**Topic: Flash Success Partial
+**Topic: Flash Errors Partial

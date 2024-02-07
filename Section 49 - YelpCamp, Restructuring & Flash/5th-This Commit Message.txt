@@ -1,0 +1,7 @@
+feat: Organize routes, introduce 'public' folder, session middleware, flash messages.
+
+- Organize routes for campgrounds & reviews with Express Router
+- Introduce 'public' folder, add 'validateForms.js', and import it in 'boilerplate'
+- Introduce 'express-session' middleware.
+- Implemented flash messages using 'connect-flash'
+- Created partials for flash messages handling success and error situations
