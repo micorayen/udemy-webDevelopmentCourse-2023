@@ -1,0 +1,11 @@
+**-Topics **
+
+**Crucial!
+- Authentication vs. Authorization - [ Green ]
+- How to (Not) Store Passwords - [ Yellow ]
+- Working with Bcrypt - [ Red ]
+
+**Important
+- Auth Demo - [ Yellow ]
+- Understanding Hashing Functions - [ Red ]
+- Password Salts
