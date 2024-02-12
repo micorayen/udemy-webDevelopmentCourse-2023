@@ -1,0 +1,16 @@
+**-Topics **
+
+- Introduction to Passport
+- Creating Our User Model
+- Configuring Passport
+- Register Form
+- Register Route Logic 
+- Login Routes
+- isLoggedIn Middleware
+- IMPORTANT: Fixing Logout
+- Adding Logout
+- currentUser Helper
+- Fixing Register Route
+- IMPORTANT: Passport.js Updates - Fixing the returnTo/Redirect Issue
+- Return To Behavior 
+

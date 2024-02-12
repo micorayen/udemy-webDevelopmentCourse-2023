@@ -1,0 +1,32 @@
+<% if(success && success.length){ %>
+<div
+  class="alert alert-success alert-dismissible fade show col-6 offset-3"
+  role="alert"
+>
+  <%= success %>
+  <button
+    type="button"
+    class="btn-close"
+    data-bs-dismiss="alert"
+    aria-label="Close"
+  ></button>
+</div>
+
+<% } %> <% if(error && error.length){ %>
+<div
+  class="alert alert-danger alert-dismissible fade show col-6 offset-3"
+  role="alert"
+>
+  <%= error %>
+  <button
+    type="button"
+    class="btn-close"
+    data-bs-dismiss="alert"
+    aria-label="Close"
+  ></button>
+</div>
+<% } %>
+
+<!-- {'success': 'it worked!', 'danger': 'problem!'} -->
+<!-- you can use it dynamically, use key and messages, then will change class to 'success or danger' -->
+<!-- for now, simplicity sake -->
