@@ -1,0 +1,16 @@
+**-Topics **
+
+- Intro to Image Upload Process
+- The Multer Middleware
+- Cloudinary Registration
+- Environment Variables w/ dotenv
+- Uploading to Cloudinary Basics
+- Storing Uploaded Image links In Mongo
+- Displaying Images In A Carousel
+- Fixing Our Seeds
+- Adding Upload to Edit Page
+- Customizing File Input
+- A Word of Warning!
+- Deleting Images Form
+- Deleting Images Backend
+- Adding a Thumbnail Virtual Property
