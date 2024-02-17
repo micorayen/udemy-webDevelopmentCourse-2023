@@ -1,0 +1,6 @@
+implemented styling updates.
+
+- Create "Home Page
+- Further refined Home Page Looks
+- Styled Login and Register forms for responsiveness
+- Adjusted spacing for better layout of Campgrounds page"
